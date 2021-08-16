@@ -211,9 +211,9 @@ img {
 
 .home__img {
   position: absolute;
-  right: 30;
+  left: 0;
   top: 0;
-  width: 300px;
+  width: 354px;
   z-index: var(--z-normal);
 }
 
