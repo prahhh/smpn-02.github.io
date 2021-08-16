@@ -212,6 +212,7 @@ img {
 .home__img {
   position: absolute;
   right: 10;
+  top: 10;
   bottom: -10;
   width: 300px;
   z-index: var(--z-normal);
