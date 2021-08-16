@@ -213,7 +213,6 @@ img {
   position: absolute;
   right: 30;
   top: 0;
-  bottom: 0;
   width: 300px;
   z-index: var(--z-normal);
 }
