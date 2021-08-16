@@ -237,6 +237,21 @@ img {
 .home__social-icon:hover {
   color: var(--first-color);
 }
+/*----- Image Slider ------*/
+.content{
+  height: 400px;
+  width: 750px;
+  overflow: hidden;
+  box-shadow: 1px 1px 15px rgba(0,0,0,0.4);
+}
+.content .images{
+  height: 100%;
+  width: 100%;
+}
+.images img{
+  height: 100%;
+  width: 100%;
+}
 
 /*----- MEDIA QUERIES -----*/
 @media screen and (min-width: 768px) {
